@@ -1,0 +1,10 @@
+asyncio
+mcp
+langgraph
+langchain
+langchain-openai
+langchain-core
+langchain-mcp-adapters
+typing_extensions
+wikipedia
+FastMCP
